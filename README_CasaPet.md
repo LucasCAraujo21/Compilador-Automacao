@@ -427,7 +427,8 @@ Exemplos de ações registradas:
 [20h] 📱 NOTIFICAÇÃO: Caixa suja!
 ```
 
-![Uploading image.png…]()
+<img width="771" height="372" alt="Screenshot 2026-10-07 151224_edited" src="https://github.com/user-attachments/assets/12246cd5-424d-4532-8ee6-07c175eaa84e" />
+
 
 ---
 
