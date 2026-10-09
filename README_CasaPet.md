@@ -1,3 +1,5 @@
+LUCAS CARVALHO DE ARAÚJO - 2685975
+
 # 🐾 CasaPet — Compilador para Casa Automatizada de Pets
 
 Projeto acadêmico de **Compiladores** que implementa uma linguagem de programação simples para automatizar uma casa destinada ao cuidado de pets.
